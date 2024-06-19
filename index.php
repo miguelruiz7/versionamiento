@@ -53,6 +53,11 @@ include('includes/iconos.php');
       </div>
     </div>
   </div>
+
+
+  <?php
+   include('includes/footer.php');
+  ?>
     
 </body>
 <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
